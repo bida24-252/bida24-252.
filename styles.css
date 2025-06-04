@@ -229,6 +229,10 @@ img {
     border-radius: 8px;
     margin-bottom: 10px;
 }
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
 
 /* --- Buttons --- */
 .register-button {
